@@ -1,7 +1,7 @@
 {
-  "name": "webhook-echo-sample",
+  "name": "echo-dialog-test-v2",
   "version": "1.0.0",
-  "description": "Webhook echo sample",
+  "description": "echo-dialog-test-v2",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
